@@ -17,7 +17,6 @@
 ## What was changed
 
 This is a **drop-in replacement** for the original `main.cpp`.  
-No other source files need to be modified — just replace and recompile.
 
 ### Added: `-s` / `-e` flags (chunk mode)
 
